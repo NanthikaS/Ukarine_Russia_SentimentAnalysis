@@ -11,7 +11,7 @@ To complete the task we need columns ['username','tweet','language']
 Check for the null value
 Remove the links,symbols, punctuation using snowballstemmer and stopwords and re
 Filtering the  frequent words for wordcloud
-Add positive, negative, neutral columns by calculating the sentiment scores
+Add positive, negative, neutral columns by calculating the sentiment scores.
 
 
 
